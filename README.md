@@ -5,7 +5,7 @@ This repository contains my journey to become a backend developer using:
 - Spring Framework
 - Spring Boot
 - JPA / Hibernate
-- MySQL
+- postgres
 - Docker
 - Microservices Architecture
 
